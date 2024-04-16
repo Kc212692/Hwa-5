@@ -70,7 +70,7 @@ def question3():
     answers['Agree?'] = 'no'
 
     # type: explain_string
-    answers['Explain'] = None
+    answers['Explain'] = 'Flipping a coin to predict the stock market is ineffective because it relies on randomness and ignores actual market data and trends, which are crucial for making informed predictions.'
     return answers
 
 
